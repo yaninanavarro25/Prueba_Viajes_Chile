@@ -13,18 +13,18 @@
 #Quienes_somos {
     background-color: black;
     color: aliceblue;
-    padding-left: 130px;
-    padding-right: 130px;
-    padding-top: 50px;
-    padding-bottom: 30px;
+    padding-left: 9vw;
+    padding-right: 9vw;
+    padding-top: 4vw;
+    padding-bottom: 2vw;
 }
 #Destacados {
     background-color: black;
     color: aliceblue;
-    padding-left: 130px;
-    padding-right: 130px;
-    padding-top: 50px;
-    padding-bottom: 30px;
+    padding-left: 9vw;
+    padding-right: 9vw;
+    padding-top: 2vw;
+    padding-bottom: 4vw;
    
 }
 
@@ -43,6 +43,6 @@ font-size: small;
 #Contacto {
     background-color: black;
     color: aliceblue;
-    padding-left: 130px;
-    padding-right: 130px;
+    padding-left: 9vw;
+    padding-right: 9vw;
 }
