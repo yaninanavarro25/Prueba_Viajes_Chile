@@ -1,1 +1,48 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* body {
+    margin: 0;
+    border: 0;
+    padding: 0;
+} */
+
+.navbar {
+    background-color: transparent;
+}
+
+#Quienes_somos {
+    background-color: black;
+    color: aliceblue;
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+#Destacados {
+    background-color: black;
+    color: aliceblue;
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+   
+}
+
+.card {
+color: aliceblue;
+font-size: small;
+}
+
+/* i {
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+    height: 35px 100py;
+    text-align: center;
+} */
+#Contacto {
+    background-color: black;
+    color: aliceblue;
+    padding-left: 130px;
+    padding-right: 130px;
+}
