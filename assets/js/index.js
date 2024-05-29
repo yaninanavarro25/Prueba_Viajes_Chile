@@ -13,4 +13,15 @@ $(document).ready(function(){
     });
     }
     });
-   });
+   
+
+// Alert de boton enviar
+
+$("#botonenviar").click(function () {
+    alert("Te contactaremos a la brevedad");
+});
+
+
+});
+
+
