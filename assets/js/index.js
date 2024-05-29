@@ -21,7 +21,4 @@ $("#botonenviar").click(function () {
     alert("Te contactaremos a la brevedad");
 });
 
-
 });
-
-
